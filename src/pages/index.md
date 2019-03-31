@@ -1,5 +1,5 @@
 ---
-title: DA
+title: Home
 ---
 
 Hello, stranger. This is my personal space in this ocean of information.
