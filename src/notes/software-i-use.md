@@ -1,5 +1,6 @@
 ---
 title: Software I Use
+publishedAt: 19-5-19
 ---
 
 Few lines about software I'm using this days on my laptop.
