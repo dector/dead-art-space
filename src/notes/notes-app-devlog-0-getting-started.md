@@ -2,10 +2,11 @@
 title: Notes App | 0. Getting started
 createdAt: 29-09-19
 tags: devlog, notes app, android
+sequence: Notes App
 isDraft: true
 ---
 
-This blog-post series gonna highlight my process of building Android app in modern (2k19) technologies. **This notes are simple dev-log** and not describe (usually) best practices, but are the reflection on the process itself.
+This blog-post series gonna highlight my process of building Android app in modern-2k19/experimental technologies. **This notes are simple dev-log** and don't describe (usually) best practices, but are rather the reflection on the process itself.
 
 ## Stages
 
@@ -18,7 +19,7 @@ This blog-post series gonna highlight my process of building Android app in mode
 
 ## Project description
 
-This is native note-taking android app built with [Android SDK](https://d.android.com) using [Kotlin](https://kotlinlang.org) programming language and [Material](https://material.io) design system.
+Result app will be a native Android note-taking app built with [Android SDK](https://d.android.com) using [Kotlin](https://kotlinlang.org) programming language and [Material](https://material.io) design system.
 
 ### Tech-stack
 
