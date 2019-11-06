@@ -1,12 +1,14 @@
 ---
 title: Notes App | 0. Getting started
 createdAt: 29-09-19
+publishedAt: 05-10-19
 tags: devlog, notes app, android
 sequence: Notes App
-isDraft: true
 ---
 
 This blog-post series gonna highlight my process of building Android app in modern-2k19/experimental technologies. **This notes are simple dev-log** and don't describe (usually) best practices, but are rather the reflection on the process itself.
+
+<!-- __cut -->
 
 ## Stages
 
@@ -33,7 +35,6 @@ Result app will be a native Android note-taking app built with [Android SDK](htt
 #### Code/product design focus/decisions for v1.
 
 - Quality product (judged by my personal taste).
-
 - Testability: UI and Unit testing.
 - Good looking UI (based on Material Design System).
 - Exploration of best UX practices.
@@ -44,8 +45,7 @@ Result app will be a native Android note-taking app built with [Android SDK](htt
 #### Tools.
 
 - **IDE**: [Android Studio](https://d.android.com/studio) (based on awesome [Intellij IDEA](https://jetbrains.com/idea)).
-
-- Repository: [Github](https://github.com/dector/notes-app) (private yet).
+- **Git repository hosting**: [Github](https://github.com/dector/notes-app) (private yet).
 
 #### Features.
 
