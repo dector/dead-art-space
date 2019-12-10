@@ -6,6 +6,7 @@
     output: {
       overrideFiles: true
     }
+    _theme: hyde
   }
 
   blog: {
