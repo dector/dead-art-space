@@ -6,6 +6,9 @@
     output: {
       overrideFiles: true
     }
+    assets: {
+      targetPath: /assets
+    }
     _theme: hyde
   }
 
