@@ -1,5 +1,6 @@
 ---
 title: Notes App | 0. Getting started
+isDraft: true
 createdAt: 29-09-19
 publishedAt: 05-10-19
 tags: devlog, notes app, android

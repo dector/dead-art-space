@@ -1,12 +1,12 @@
 ---
 title: Generative Art 2019
-_isDraft: true
+isDraft: false
 
 tags: genart, summary
 
 createdAt: 29-12-2019
-updatedAt: 29-12-2019
-publishedAt: 29-12-2019
+updatedAt: 30-12-2019
+publishedAt: 30-12-2019
 ---
 
 
